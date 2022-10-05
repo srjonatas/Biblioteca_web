@@ -14,3 +14,17 @@
     bottom: 20%;
     left: 30%;
 }
+
+@media screen and (max-width: 768px){
+    .imagem-de-fundo{
+        height: 50vh;
+        width: 100%;
+        position: absolute;
+    }
+
+    .pagina-inicial__titulo{
+        position: relative;
+        font-size: 2rem;
+        top: 160px;
+    }
+}
