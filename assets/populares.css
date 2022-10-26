@@ -1,0 +1,25 @@
+.populares__flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.populares__titulo{
+    font-size: 3rem;
+    margin: 3rem 0;
+    text-align: center;
+}
+
+.populares__livros{
+    width: 20%;
+    text-align: center;
+}
+
+.populares__img{
+    width: 150px;
+}
+
+.populares__texto{
+    font-size: 1rem;
+    margin: 1rem 0;
+}

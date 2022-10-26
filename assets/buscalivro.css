@@ -1,0 +1,37 @@
+.buscalivro{
+    height: 90vh;
+}
+
+.buscalivro__titulo{
+    font-size: 3rem;
+    padding: 3rem;
+    margin: 3rem;
+    text-align: center;
+}
+
+.buscalivro__flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.buscalivro__conteudo{
+    width: 20%;
+    text-align: center;
+}
+
+.buscalivro__img{
+    width: 15vw;
+
+}
+
+.habitos__lampada{
+    text-align: center;
+    font-weight: bold;
+}
+
+.habitos__img{
+    margin-top: 2rem;
+    margin-left: 49%;
+    width: 2rem;
+}

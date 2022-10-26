@@ -1,0 +1,45 @@
+.kindle__titulo{
+    font-size: 3rem;
+    padding: 2rem;
+    margin: 1rem;
+    text-align: center;
+}
+
+.kindle__flex{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.kindle__conteudo{
+    height: 65vh;
+    margin: 0 4rem;
+    text-align: center;
+}
+
+.kindle__img{
+    width: 25vw;
+   
+}
+
+.habitos{
+    margin-bottom: 4rem;
+}
+
+.kindle__texto{
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin: 2rem 0 0 0;
+}
+
+
+.lampada__img{
+    margin-left: 49%;
+    width: 2rem;
+}
+
+.kindle__lampada{
+    text-align: center;
+    font-weight: bold;
+
+}
