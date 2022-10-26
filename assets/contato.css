@@ -1,0 +1,40 @@
+.contato{
+    background: black;
+    color: white;
+}
+
+.contato__titulo{
+    font-size: 2rem;
+    text-align: center;
+    padding: 2rem;
+}
+
+.contato__flex{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.suporte{
+    margin-left: 1rem;
+}
+
+.contato__img{
+    width: 5vw;
+    margin-left: ;
+}
+
+.mapa{
+    width: 300px;
+    height: 225px;
+    margin-left: 15rem;
+    border-radius: 1rem;
+}
+
+.contato__texto{
+    margin: 1rem;
+}
+
+.contato p {
+    margin-left: 1rem;
+}

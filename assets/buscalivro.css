@@ -22,7 +22,11 @@
 
 .buscalivro__img{
     width: 15vw;
+    transition: 300ms;
+}
 
+.buscalivro__img:hover{
+    width: calc(15vw + 3.5%);
 }
 
 .habitos__lampada{
